@@ -1,0 +1,45 @@
+<?xml version="1.0"  ?>
+<catalog>
+    <course id="1">
+        <name>Курс английского языка для начинающих</name>
+        <teacher>Фалес Мак</teacher>
+        <language>Английский язык</language>
+        <price>1008.0</price>
+
+    </course>
+
+    <course id="2">
+        <name>Курс немецкого языка для детей</name>
+        <teacher>Корбунова А.О.</teacher>
+        <language>Немецкий язык</language>
+        <price>653.0</price>
+
+    </course>
+
+    <course id="3">
+        <name>Экспресс-курс французского языка</name>
+        <teacher>Арбит У.Р.</teacher>
+        <language>Французский язык</language>
+        <price>588.0</price>
+
+    </course>
+
+    <course id="4">
+        <name>Англиский для Upper-intermediate</name>
+        <teacher>Смолов Н.Р.</teacher>
+        <language>Английский язык</language>
+        <price>1238.0</price>
+
+    </course>
+
+    <course id="5">
+        <name>Французский разговорный клуб</name>
+        <teacher>Миклун Ф.Ф.</teacher>
+        <language>Французский язык</language>
+        <price>1487.0</price>
+
+    </course>
+
+
+
+</catalog>
